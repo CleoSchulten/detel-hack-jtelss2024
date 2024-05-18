@@ -56,7 +56,7 @@ order: 3
 
 [Competence Development]
 
-[Intelligent tutoring]
+[Intelligent tutoring](/detel-book/chapter/topics/its/)
 
 [Connecting Learning (Social media / web 2.0 / social software), Connectivism, Learning]
 
