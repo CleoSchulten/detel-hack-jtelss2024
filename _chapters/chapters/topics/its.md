@@ -112,3 +112,15 @@ Recap of ITS history, components, applications, challenges, and future direction
 The transformative potential of ITS in education and the importance of continued research and innovation.
 
 
+# Resources & References
+[http://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2012/12/173Chapter_37_Intelligent_Tutoring_Systems.pdf](http://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2012/12/173Chapter_37_Intelligent_Tutoring_Systems.pdf)
+
+[https://www.tandfonline.com/doi/pdf/10.1080/00461520.2011.611369?casa_token=WPr9sTAypWsAAAAA:SQpfs9CQI4phFy6f05g2qksRt54Yif-iVMIfa0P-72TdWNW3ON9OB93cUBs65TlYlmdHj0--KJk](https://www.tandfonline.com/doi/pdf/10.1080/00461520.2011.611369?casa_token=WPr9sTAypWsAAAAA:SQpfs9CQI4phFy6f05g2qksRt54Yif-iVMIfa0P-72TdWNW3ON9OB93cUBs65TlYlmdHj0--KJk)
+
+[https://web.mit.edu/5.95/readings/bloom-two-sigma.pdf](https://web.mit.edu/5.95/readings/bloom-two-sigma.pdf)
+
+[https://dl.acm.org/doi/10.1007/978-3-540-69132-7_111](https://dl.acm.org/doi/10.1007/978-3-540-69132-7_111)
+
+[https://github.com/CMUCTAT/CTAT/wiki/Quick-Start](https://github.com/CMUCTAT/CTAT/wiki/Quick-Start)
+
+[https://mathtutor.web.cmu.edu](https://mathtutor.web.cmu.edu)
