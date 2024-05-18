@@ -13,8 +13,6 @@ Chapter Outline: Intelligent Tutoring Systems
 
 Definition and significance in modern education.
 
-* ITS are not new, early examples are SCHOLAR (Carbonell 1970), BIP (Barr, Beard & Atkinson 1970)
-
 ## 1.2 Purpose of the Chapter
 
 Objectives and scope of the discussion on ITS.
@@ -33,51 +31,29 @@ Integration of AI techniques: Machine learning and natural language processing (
 
 21st-century developments: Digital technologies, internet proliferation, advanced AI algorithms (Carnegie Learning's MATHia, Pearson's MyLab).
 
-# 3. Key Components of Intelligent Tutoring Systems
+# 3. Impact and Effectiveness
 
-## 3.1 Domain Model
+## 3.1 Human Tutoring VS Intelligent Tutoring
 
 Curriculum structure, learning objectives, and instructional content.
 
-## 3.2 Student Model
+## 3.2 Effectiveness of ITS 
 
-Data-driven learner profiles, performance tracking, and personalization.
-
-## 3.3 Tutoring Model
+## 3.3 Impact in Education
 
 Pedagogical strategies, scaffolding, hints, and feedback mechanisms.
+Case studies (in higher education, high school, with teachers): Studies, Researchers, our cases
+Different features in comparison (?)
 
-## 3.4 User Interface
+# 4. ITS Architecture
+## 4.1 
 
-Interactive elements, user engagement, and intuitive design.
-
-# 4. Applications and Impact
-
-## 4.1 K-12 Education
-
-Differentiated instruction support (DreamBox, ST Math, i-Ready).
-
-## 4.2 Higher Education
-
-Supplemental instruction and personalized support (ALEKS).
-
-## 4.3 Corporate Training
-
-Professional development and customized learning (Skillsoft's Percipio).
-
-# 5. Challenges in ITS Implementation
-
-## 5.1 Scalability and Accessibility
+## 4.2 Challenges in ITS Implementation
 
 Cost reduction, user interface improvements, and content localization.
-
-## 5.2 Data Privacy and Ethics
-
 Data protection policies, ethical considerations, and transparency.
 
-## 5.3 Interdisciplinary Collaboration
-
-Collaboration across computer science, education, psychology, and design.
+## 4.3 How to build them?
 
 # 6. Future Directions for Intelligent Tutoring Systems
 
@@ -85,31 +61,17 @@ Collaboration across computer science, education, psychology, and design.
 
 Integration of VR and AR for immersive learning environments.
 
-## 6.2 Advances in AI
+## 6.2 What if...?
 
-Natural language processing, machine learning, and their impact on ITS.
+Can ChatGPT be an ITS?
 
-## 6.3 Research and Development
+# 7. Conclusion
 
-Trends and innovations in ITS research.
-
-# 7. Case Studies
-
-## 7.1 Successful ITS Implementations
-
-Examples from K-12, higher education, and corporate training.
-
-## 7.2 Lessons Learned
-
-Insights and takeaways from case studies.
-
-# 8. Conclusion
-
-## 8.1 Summary of Key Points
+## 7.1 Summary of Key Points
 
 Recap of ITS history, components, applications, challenges, and future directions.
 
-## 8.2 Final Thoughts
+## 7.2 Final Thoughts
 
 The transformative potential of ITS in education and the importance of continued research and innovation.
 
