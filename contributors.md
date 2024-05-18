@@ -22,7 +22,7 @@ We would like to thank the following authors of the chapters.
 - Laia Albo, Universitat Pompeu Fabra, Spain
 - Anu Tammeleht, University of Tartu, Estonia
 - Mikhail Fominykh, Norwegian University of Science and Technology, Norway
-
+- Julio Santilario Berthilier, University Complutense of Madrid, Spain
 
 ### Book Design
 

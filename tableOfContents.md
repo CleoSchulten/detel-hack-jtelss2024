@@ -70,7 +70,7 @@ order: 3
 
 [Learning Object Repositories and Meta-Data]
 
-[Game-based learning]
+[Game-based learning](/detel-book/chapter/topics/game-based-learning/)
 
 [Problem-based and Inquiry-based learning]
 
