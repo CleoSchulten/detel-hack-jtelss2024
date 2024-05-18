@@ -13,6 +13,8 @@ Chapter Outline: Intelligent Tutoring Systems
 
 Definition and significance in modern education.
 
+* ITS are not new, early examples are SCHOLAR (Carbonell 1970), BIP (Barr, Beard & Atkinson 1970)
+
 ## 1.2 Purpose of the Chapter
 
 Objectives and scope of the discussion on ITS.
@@ -112,7 +114,7 @@ Recap of ITS history, components, applications, challenges, and future direction
 The transformative potential of ITS in education and the importance of continued research and innovation.
 
 
-# Resources & References
+# Resources 
 [http://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2012/12/173Chapter_37_Intelligent_Tutoring_Systems.pdf](http://act-r.psy.cmu.edu/wordpress/wp-content/uploads/2012/12/173Chapter_37_Intelligent_Tutoring_Systems.pdf)
 
 [https://www.tandfonline.com/doi/pdf/10.1080/00461520.2011.611369?casa_token=WPr9sTAypWsAAAAA:SQpfs9CQI4phFy6f05g2qksRt54Yif-iVMIfa0P-72TdWNW3ON9OB93cUBs65TlYlmdHj0--KJk](https://www.tandfonline.com/doi/pdf/10.1080/00461520.2011.611369?casa_token=WPr9sTAypWsAAAAA:SQpfs9CQI4phFy6f05g2qksRt54Yif-iVMIfa0P-72TdWNW3ON9OB93cUBs65TlYlmdHj0--KJk)
@@ -124,3 +126,8 @@ The transformative potential of ITS in education and the importance of continued
 [https://github.com/CMUCTAT/CTAT/wiki/Quick-Start](https://github.com/CMUCTAT/CTAT/wiki/Quick-Start)
 
 [https://mathtutor.web.cmu.edu](https://mathtutor.web.cmu.edu)
+
+# References
+* Carbonell, J. (1970). AI in CAI: An artificial intelligence approach to computer aided instruction. Science, 167, 190 –202.
+
+* Barr, A., Beard, M., & Atkinson, R. C. (1976). The computer as a tutorial laboratory: The Stanford BIP Project. International Journal of ManMachine Studies, 8, 567–596. doi:10.1016/S0020-7373(76)80021-1
