@@ -1,27 +1,31 @@
-**Recommender Systems**
+# Recommender Systems
 
-Intro.
-Example from everyday life (e.g., netflix) and in academic life  (e.g.,  )
-Motivation for reading (how using a recommender may help the reader in the ir own learning.
-Introducing the chapter structure (conent)
+## 1. Intro.
+1.1. Example from everyday life (e.g., netflix) and in academic life  (e.g.,  )
+1.2. Motivation for reading (how using a recommender may help the reader in the ir own learning.
+1.3. Introducing the chapter structure (conent)
 
-Definition (What is a recommender system?)
+##2. Definition (What is a recommender system?)
 
-Taxonomy (Types of RSs)
-Traditional rule-based RSs
-Content-based RSs
-Collaborative filtering
-Hybrid  RSs
-Graph based RSse
-Applications of RSs in educational setting
-Material recommendations
-Learning object recommendation
-Learning path recommendation
-Learning activity recommendation
+##3. Taxonomy (Types of RSs)
+3.1. Traditional rule-based RSs
+3.2. Content-based RSs
+3.3. Collaborative filtering
+3.4. Hybrid  RSs
+3.5. Graph based RSse
+##4. Applications of RSs in educational setting
+4.1. Material recommendations
+4.2. Learning object recommendation
+4.3. Learning path recommendation
+4.4. Learning activity recommendation
 
-RS requirements and limitations in AIED
-Ethical considerrations on RSs in education
-RS and modern technologies
-Gen-AI
-….
-Use-cases
+5. RS requirements and limitations in AIED
+  
+6. Ethical considerrations on RSs in education
+7. RS and modern technologies
+7.1. Gen-AI
+   
+9. Use-cases
+
+10. Future directions
+9. 
