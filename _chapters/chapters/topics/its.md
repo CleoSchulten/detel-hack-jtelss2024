@@ -9,9 +9,20 @@ permalink: /chapter/topics/its/
 Chapter Outline: Intelligent Tutoring Systems
 # 1. Introduction
 
+Intelligent Tutoring Systems (ITS) represent one of the most advanced applications of computer science in education. Since the 1960s, computers have been used to achieve various educational goals, including automated testing and repetitive practice tasks. However, in the 1970s, some researchers envisioned a more ambitious goal: creating intelligent tutoring systems that mimic human tutors, using artificial intelligence techniques to offer personalized and effective instruction.
+
+Human tutors are known to provide an extremely efficient learning environment, significantly improving student performance. ITS aim to replicate this positive effect by engaging students in sustained reasoning activities and interacting with them based on a deep understanding of their behaviors. Despite the challenges, research over the past few decades has yielded significant results, demonstrating that ITS can have a substantial impact on learning.
+
+This chapter provides an overview of ITS, outlining design and development methodologies and addressing major design issues. Through the analysis of successful systems and their applications, we hope to offer a comprehensive guide for the development of effective and innovative ITS.
+
 ## 1.1 Overview of Intelligent Tutoring Systems (ITS)
 
-Definition and significance in modern education.
+* Definition: “a computer system that aims to p~rovide immediate and customized instruction or feedback to learners”
+
+* ITS are typically constituted by a domain model, a pedagogical model, and a student model
+
+* A variety of student modeling approaches exist, such as model-tracing, probabilistic modeling, reconstructive bug modeling, constraint-based modeling 
+
 
 ## 1.2 Purpose of the Chapter
 
@@ -21,15 +32,13 @@ Objectives and scope of the discussion on ITS.
 
 ## 2.1 Early Developments in ITS
 
-1970s: The inception of ITS (SCHOLAR, SOPHIE).
-
-## 2.2 Advancements in the 1980s and 1990s
-
-Integration of AI techniques: Machine learning and natural language processing (ANDES, AutoTutor).
+* ITS are not new, they date back to the 1970. Early examples are SCHOLAR (Carbonell 1970) and BIP (Barr, Beard & Atkinson 1970).
+* A lot of interest and development since 1980s
 
 ## 2.3 Modern ITS
 
-21st-century developments: Digital technologies, internet proliferation, advanced AI algorithms (Carnegie Learning's MATHia, Pearson's MyLab).
+Although Artificial Intelligence (AI) is not very new, in recent years it has gained popularity in the research community and general public. Recent AI models, specifically Large Language Models (LLMs) are being used to develop chatbots which can also act as an Intelligent Tutor. They can personalize the learning content and respond as per the needs of the user. 
+
 
 # 3. Impact and Effectiveness
 
