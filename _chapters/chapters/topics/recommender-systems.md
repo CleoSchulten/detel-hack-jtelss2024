@@ -6,6 +6,16 @@
 1.3. Introducing the chapter structure (conent)
 
 ## 2. Definition (What is a recommender system?)
+Recommender systems (RS) can be defined as software tools that help the user in making decisions when the provided information is overwhelming (Ricci, Rokach, and Shapira 2015). They can become considerably important when the options available for buying an item or receiving a service vary over a wide range, such as the wide variety of online courses available for a certain topic.
+
+The definition of RSs can also be considered from the application dimensions and contexts. Therefore, we can define RSs as follow from the technical, functional, an algorithmic contexts:
+**1. Technical Definition:**
+A software application that employs algorithms to predict and recommend items to users by analysing data such as user interactions, item features, and user-item interactions.
+**2. Functional Definition:**
+A tool used to filter information and provide users with relevant content or products they might be interested in, often used in e-commerce, streaming services, social media, and other online platforms.
+**3. Algorithmic Definition:**
+A system that uses methods like collaborative filtering, content-based filtering, and hybrid approaches to analyse user data and make personalised recommendations.
+
 
 ## 3. Taxonomy (Types of RSs)
 3.1. Traditional rule-based RSs
