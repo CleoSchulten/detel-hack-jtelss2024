@@ -8,7 +8,7 @@ permalink: /chapter/topics/mooc/
 
 ## Introduction
 
-Coming
+Coming...
 
 ## What is a MOOC
 
