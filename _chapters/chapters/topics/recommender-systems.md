@@ -1,6 +1,6 @@
 # Recommender Systems
 
-# Introduction
+# 1. Introduction
 
 In an increasingly data-driven world, recommender systems (RS) have gained more importance in helping users find and navigate large amounts of information. From personalized movie recommendations we receive from streaming platforms like Netflix, to suggestions of commercial products on digital marketplaces like Amazon, those recommendation systems have noticeably influenced our digital experiences.
 
@@ -12,7 +12,7 @@ Back to our topic in this chapter, in order to be able to utilize the personaliz
 
 In this chapter, we try to cover the basics of recommender systems, starting with their definition, and continuing to their different types, how each type works (briefly), their applications in the educational setting, and finally their challenges, limitations, and potential future directions.
 
-# Definition (What is a recommender system?)
+# 2. Definition (What is a recommender system?)
 
 According to Wikipedia, _Recommender systems are a subclass of information filtering system that provides suggestions for items that are most pertinent to a particular user._
 
@@ -29,7 +29,7 @@ The definition of RS can also be considered from the application dimensions and 
 
 Each of these definitions highlights different aspects of a recommender system, such as its _purpose_, _functionality_, or underlying technology. The variation in definitions allows for flexibility in how the concept is applied across different industries and use cases.
 
-# Types of Recommender Systems
+# 3. Types of Recommender Systems
 
 Since their early days in the 1990s, recommender systems were developed under several categories that correspond to the reasoning process of the RS. The first concept of comparing users and the items, that are to be recommended, appeared in the work of Belkin and Croft in 1992 \[2\], as well as Goldberg et al. \[3\], and was known as collaborative filtering. Recommendation approaches were then developed to reflect different reasoning processes, which correspond to different applications and contexts of the recommender system.
 
@@ -39,7 +39,7 @@ The categories that RS were classified into include:
 
 This category includes the first two types of RS, namely _collaborative filtering_ and _content-based recommenders_, which were the dominant types of RS for decades, despite the drawbacks they faced. This is partially due to the simple algorithms they followed, and their focus on the similarities between system users, or between the items that are being recommended, such as books, news articles, etc.
 
-- 1. Collaborative filtering (CF):
+### 3.1.1 Collaborative filtering (CF):
 
 Collaborative filtering is the recommendation approach where the RS uses the behavior and/or preferences of users to define similarities among them. The same concept can be also implemented to find similarities between the recommended items, through their ratings. In the former case, which is referred to as User-User CF, the system recommends to user A items that a similar user B liked, see Figure 1.
 
@@ -49,7 +49,7 @@ Collaborative filtering is the recommendation approach where the RS uses the beh
 <br>User-User collaborative filtering RS
 </p>
 
-- 1. Content-based (CB):
+### 3.1.2 Content-based (CB):
 
 This type of recommender system relies on pre-defined rules to recommend items based on their metadata and the user’s previous interaction with part of these items. For example, if the learner shows interest in article A, the system will recommend to the learner article B if it has a similar, e.g., content or description, see Figure 2.
 
@@ -93,7 +93,7 @@ Figure 3 illustrates a graph-based recommendation system, which tries to predict
 
 ![Friend graph-based recommendation through link prediction \[6\]](/detel-book/assets/images/graph_based_RS.png)
 
-# Applications of Recommender Systems in educational settings
+# 4. Applications of Recommender Systems in educational settings
 
 Recommender systems have found diverse and impactful applications in the field of education, particularly in e-learning, aiming to enhance personalized learning experiences and optimize educational resources for both students and educators. Several literature reviews provide valuable insights into the different types of applications, their purposes, and their benefits across various educational contexts.
 
@@ -123,7 +123,7 @@ Similarly, a systematic review \[11\] that analyzed 56 articles from the period 
 
 These studies collectively underscore that the central aim of recommender systems in technology-enhanced learning is to recommend learning resources and guide learning paths, highlighting their crucial role in personalized education.
 
-# RS Challenges for Education and Future Directions
+# 5. RS Challenges for Education and Future Directions
 
 The integration and use of RS in education introduce challenges and implications for theory and practice. We offer a brief overview of such challenges and implications that can provide insights for future directions in RS research.
 
@@ -179,7 +179,9 @@ To that end, a potential approach to solve this problem is to enhance the **tran
 
 Guaranteeing that the student, especially at an early age, is capable of understanding the privacy-implications and the criticality of sharing their data with the RS shows a need for a user-friendly design of consent forms, as well as a certain level of digital literacy, that enables the student of making an informed decision about the level of privacy they want to keep while using a recommender system.
 
-References:
+
+
+# References
 
 \[1\] F. Ricci, L. Rokach, and B. Shapira, Eds., _Recommender Systems Handbook_. New York, NY: Springer US, 2022. doi: 10.1007/978-1-0716-2197-4.
 
