@@ -45,7 +45,7 @@ Collaborative filtering is the recommendation approach where the RS uses the beh
 
 ![User-User collaborative filtering RS](assets/images/collaborative_filtering_RS.png)
 <p align="center">
-<img src="{assets/images/collaborative_filtering_RS.png" alt="Internal Image" width="400px">
+<img src="{{{pathToRoot}}/assets/images/collaborative_filtering_RS.png" alt="Internal Image" width="400px">
 <br>User-User collaborative filtering RS
 </p>
 
