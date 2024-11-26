@@ -43,13 +43,13 @@ This category includes the first two types of RS, namely _collaborative filterin
 
 Collaborative filtering is the recommendation approach where the RS uses the behavior and/or preferences of users to define similarities among them. The same concept can be also implemented to find similarities between the recommended items, through their ratings. In the former case, which is referred to as User-User CF, the system recommends to user A items that a similar user B liked, see Figure 1.
 
-\----------------------------------------------
+![User-User collaborative filtering RS](/detel-book/assets/images/collaborative_filtering_RS.png)
 
 - 1. Content-based (CB):
 
 This type of recommender system relies on pre-defined rules to recommend items based on their metadata and the user’s previous interaction with part of these items. For example, if the learner shows interest in article A, the system will recommend to the learner article B if it has a similar, e.g., content or description, see Figure 2.
 
-\----------------------------------------------
+![Conten Based RS](/detel-book/assets/images/content_based_RS.png)
 
 As a result of the logic that CF and CB recommendation systems follow, each type faces limitations that affect its output. CF recommender systems rely on the behavior and preferences that are stored in the user profile to make a recommendation by finding similar users. This means that a new user in the system, whose profile does not have yt information about their preferences, will not get sound recommendations. This issue is referred to as the “cold-start” problem of recommender systems \[4\].
 
@@ -87,7 +87,7 @@ An example of graph-based recommendations is the recommender system in Pinterest
 
 Figure 3 illustrates a graph-based recommendation system, which tries to predict indirect links/relations between a social media network, in order to recommend potential friend connections to users, based on their shared friends.
 
-\----------------------------------------------
+![Friend graph-based recommendation through link prediction \[6\]](/detel-book/assets/images/graph_based_RS.png)
 
 # Applications of Recommender Systems in educational settings
 
@@ -100,14 +100,14 @@ Specifically, in e-learning, the different applications of recommender systems i
 
 One interesting example is the personalized citation recommendation. In \[8\], the authors propose a three-layered (paper, author, venue) interactive clustering approach to cluster related vertices in the graph (Figure 4).
 
-\----------------------------------------------
+![Three-layered (paper, author, venue) interactive clustering approach \[10\]](/detel-book/assets/images/three_layered_clustering.png)
 
 - 1. Learning object recommendation:  
         Unlike learning materials, learning objects refer to distinct, granular items such as exercises, questions, and examples. Recommending these learning objects is typically accomplished through **knowledge-based techniques**.
 
 One example is the work in \[9\] where authors proposed a hybrid filtering approach for recommending learning objectives to students. That was achieved by their proposed framework which combined three modules namely, the _learner module,_ the _recommendation module,_ and the _interactive module_ (Figure 5). The learner module with the learner influence model aims to address interpersonal information sparsity and cold start problems in e-learning. The recommendation module aims to simulate learners’ collaborative behaviors and give learners cliques using a self-organization-based recommendation. In the interactive module students' activities are being recorded, e.g., studying records.
 
-\----------------------------------------------
+![Proposed framework in \[9\] with the learner module, the recommendation module, and the interactive module](/detel-book/assets/images/framework_thre_modules.png)
 
 - 1. Learning path recommendation:  
         A learning path consists of a series of items, which may include learning materials, learning objects, or learning activities. Due to the complexity of this function, **sequence modeling and recurrent neural networks** (RNNs) are commonly employed because of their inherent strengths in handling sequential data. For example, in \[10\] the authors developed a full-path learning recommendation by clustering a group of learners based on a feature similarity metric and training a long short-term memory (LSTM) model, i.e., a type of RNN, to predict their learning paths and performance.
