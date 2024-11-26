@@ -43,9 +43,9 @@ This category includes the first two types of RS, namely _collaborative filterin
 
 Collaborative filtering is the recommendation approach where the RS uses the behavior and/or preferences of users to define similarities among them. The same concept can be also implemented to find similarities between the recommended items, through their ratings. In the former case, which is referred to as User-User CF, the system recommends to user A items that a similar user B liked, see Figure 1.
 
-![User-User collaborative filtering RS](assets/images/collaborative_filtering_RS.png)
+![User-User collaborative filtering RS](detel-hack-jtelss2024/assets/images/collaborative_filtering_RS.png)
 <p align="center">
-<img src="{{{pathToRoot}}/assets/images/collaborative_filtering_RS.png" alt="Internal Image" width="400px">
+<img src="detel-hack-jtelss2024/assets/images/collaborative_filtering_RS.png" alt="Internal Image" width="400px">
 <br>User-User collaborative filtering RS
 </p>
 
