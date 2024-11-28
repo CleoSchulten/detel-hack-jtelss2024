@@ -104,7 +104,7 @@ Recommender systems have found diverse and impactful applications in the field o
 
 Specifically, in e-learning, the different applications of recommender systems include \[7\]:
 
-- 1. Learning material recommendations:  
+1. Learning material recommendations:  
         Different users require appropriate learning materials tailored to their knowledge level and current needs. The primary form of these learning materials is text which involves the use of **content-based techniques**.
 
 One interesting example is the personalized citation recommendation. In \[8\], the authors propose a three-layered (paper, author, venue) interactive clustering approach to cluster related vertices in the graph (Figure 4).
@@ -114,7 +114,7 @@ One interesting example is the personalized citation recommendation. In \[8\], t
 <br>Three-layered (paper, author, venue) interactive clustering approach \[10\]
 </p>
 
-- 1. Learning object recommendation:  
+2. Learning object recommendation:  
         Unlike learning materials, learning objects refer to distinct, granular items such as exercises, questions, and examples. Recommending these learning objects is typically accomplished through **knowledge-based techniques**.
 
 One example is the work in \[9\] where authors proposed a hybrid filtering approach for recommending learning objectives to students. That was achieved by their proposed framework which combined three modules namely, the _learner module,_ the _recommendation module,_ and the _interactive module_ (Figure 5). The learner module with the learner influence model aims to address interpersonal information sparsity and cold start problems in e-learning. The recommendation module aims to simulate learners’ collaborative behaviors and give learners cliques using a self-organization-based recommendation. In the interactive module students' activities are being recorded, e.g., studying records.
@@ -124,11 +124,11 @@ One example is the work in \[9\] where authors proposed a hybrid filtering appro
 <br>Proposed framework in \[9\] with the learner module, the recommendation module, and the interactive module
 </p>
 
-- 1. Learning path recommendation:  
+3. Learning path recommendation:  
         A learning path consists of a series of items, which may include learning materials, learning objects, or learning activities. Due to the complexity of this function, **sequence modeling and recurrent neural networks** (RNNs) are commonly employed because of their inherent strengths in handling sequential data. For example, in \[10\] the authors developed a full-path learning recommendation by clustering a group of learners based on a feature similarity metric and training a long short-term memory (LSTM) model, i.e., a type of RNN, to predict their learning paths and performance.
-  2. Learning activity recommendation:  
+4. Learning activity recommendation:  
         Learning activities generally cover broader contexts, such as classes or events involving students. Recommendations for these activities are typically achieved through content-based, collaborative filtering (CF)-based, or hybrid methods.
-  3. Others: e.g., exercise difficulty ranking, knowledge requirement acquisition.
+5. Others: e.g., exercise difficulty ranking, knowledge requirement acquisition.
 
 Similarly, a systematic review \[11\] that analyzed 56 articles from the period 2015-2020 that focus on the use of recommender systems in education identified their primary purposes to be recommending learning resources and courses. Additionally, the authors in \[12\] focused their systematic on recommender systems that support students’ agency (i.e., the learner’s ability to set and pursue learning goals). They also analyzed 56 articles in the timeframe 2008-2018 and found that the main purpose of the relevant studies was to recommend quality content, with other purposes including suggesting learning activities and helping students find peers.
 
